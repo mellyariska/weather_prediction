@@ -34,4 +34,3 @@ if st.button("Predict"):
         st.warning("🌦️ Light Rainfall")
     else:
         st.success("☀️ No Rainfall")
-```
