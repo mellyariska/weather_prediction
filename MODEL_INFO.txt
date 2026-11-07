@@ -1,0 +1,4 @@
+Model type: RandomForestClassifier
+Features: suhu, kelembaban, kecepatan_angin
+Classes: Hujan Lebat, Hujan Ringan, Tidak Hujan
+Expected model filename: model.pkl
